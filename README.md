@@ -5,6 +5,8 @@ The purpose of this analysis was to assist the ride-sharing app company PyBer be
 
 ## Results
 - Urban cities have the largest number of rides, the largest number of drivers, and the lowest average fares compared to rural and suburban cities. Rural cities have the least number of rides, least number of drivers, and highest fares compared to urban and suburban cities. See Figure 1 in the Analysis folder for additional information. 
+![Fig1](https://user-images.githubusercontent.com/94587007/166265771-3d1bda03-5617-4d29-8bde-62f8971571a6.png)
+
 - Urban cities had an average of 24 PyBer rides per city in 2019. Suburban cities had an average of 17 rides and rural cities had an average of 7 rides per city in 2019. See Figure 2 in the Analysis folder for additional information.
 - The average fare in urban cities in 2019 was $24.53 per ride. The average fare in suburban cities was $30.97 and the average fare per ride in rural cities was $34.62 in 2019. See Figure 3 in the Analysis folder for additional information.
 - In 2019, the average urban city had approximately 37 PyBer drivers. The average suburban city had approximately 14 drivers and rural cities had an average of roughly 4 drivers per city in 2019. See Figure 4 in the Analysis folder for additional information.
