@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Overview
 The purpose of this analysis was to assist the ride-sharing app company PyBer better understand its data in urban, suburban, and rural areas. 
