@@ -1,7 +1,7 @@
 # PyBer Analysis
 
 ## Overview
-The purpose of this analysis was to assist the ride-sharing app company PyBer better understand its data in urban, suburban, and rural areas. 
+The purpose of this analysis was to assist the ride-sharing app company PyBer better understand its data in urban, suburban, and rural areas. This project consisted of performing exploratory analysis of ride-sharing data to develop visualizations based on the relationship between city types and fare costs. The results were analyzed to determine whether certain city types could benefit from improved access to ride-sharing programs. Python was used to analyze the data and develop visualizations. 
 
 ## Results
 - Urban cities have the largest number of rides, the largest number of drivers, and the lowest average fares compared to rural and suburban cities. Rural cities have the least number of rides, least number of drivers, and highest fares compared to urban and suburban cities. 
